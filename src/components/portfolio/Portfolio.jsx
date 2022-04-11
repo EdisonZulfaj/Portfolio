@@ -16,8 +16,9 @@ const Portfolio = () => {
           </div>
           <h3>Auto parts management system</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/EdisonZulfaj" target='_blank' className='btn btn-primary'>Git Hub</a>
+            <a href="https://github.com/bl48465/PartsManagement1" target='_blank' className='btn btn-primary'>Git Hub</a>
           </div>
+         
 
         </article>
 
@@ -27,7 +28,7 @@ const Portfolio = () => {
           </div>
           <h3>My CV</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/EdisonZulfaj" target='_blank' className='btn btn-primary'>Git Hub</a>
+            <a href="https://github.com/EdisonZulfaj/Portfolio" target='_blank' className='btn btn-primary'>Git Hub</a>
           </div>
 
         </article>

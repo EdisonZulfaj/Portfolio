@@ -24,7 +24,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>No Experience </small>
+              <small>No actual job </small>
             </article>
 
             <article className='about__card'>
@@ -36,12 +36,12 @@ const About = () => {
 
             <article className='about__card'>
               <FaAward className='about__icon'/>
-              <h5>Experience</h5>
-              <small>No Experience </small>
+              <h5>React</h5>
+              <small>Intermediate </small>
             </article>
           </div>
           <p>
-            Lorem Ipsum simething bla bla bla
+            Junior Software Developer
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
