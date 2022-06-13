@@ -2,6 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG from '../../assets/auto-parts.png'
 import IMG2 from '../../assets/portfolio.PNG'
+import IMG3 from '../../assets/spacex.PNG'
 
 const Portfolio = () => {
   return (
@@ -29,6 +30,17 @@ const Portfolio = () => {
           <h3>My CV</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/EdisonZulfaj/Portfolio" target='_blank' className='btn btn-primary'>Git Hub</a>
+          </div>
+
+        </article>
+
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG3} alt="Cv" />
+          </div>
+          <h3>SpaceX</h3>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/EdisonZulfaj/my-app-SpaceX" target='_blank' className='btn btn-primary'>Git Hub</a>
           </div>
 
         </article>
